@@ -37,40 +37,40 @@
     - name: 创建实例
       herf: Getting-Started/Create-Instance.md
     - name: 非网站类转发规则
-      herf: Non-Web-Service-Forwarding-Rule.md
+      herf: Getting-Started/Non-Web-Service-Forwarding-Rule.md
     - name: 网站类转发规则
-      herf: Web-Service-Forwarding-Rule.md
+      herf: Getting-Started/Web-Service-Forwarding-Rule.md
     - name: 放行回源IP
-      herf: Whitelist-local-IP-subnet.md
+      herf: Getting-Started/Whitelist-local-IP-subnet.md
     - name: 验证配置生效
-      herf: Verify-Local-Settings.md
+      herf: Getting-Started/Verify-Local-Settings.md
     - name: 更新DNS解析
-      herf: Update-DNS-Settings.md
+      herf: Getting-Started/Update-DNS-Settings.md
 - name: 操作指南
   items:
     - name: 网站类规则设置
       items:
         - name: CC防护规则相关配置
-          herf: CC-Defense-Related.md
+          herf: Operation-Guide/CC-Defense-Related.md
         - name: URL白名单配置
-          herf: URL-Whitelist-Rules-Setting.md
+          herf: Operation-Guide/URL-Whitelist-Rules-Setting.md
    - name: 攻击告警设置
-      herf: Attack-Alarm-Notification-Settings.md
+      herf: Operation-Guide/Attack-Alarm-Notification-Settings.md
    - name: 黑白名单设置
-      herf: Blacklist-And-Whitelist-Settings.md
+      herf: Operation-Guide/Blacklist-And-Whitelist-Settings.md
     - name: 查看安全报表
-      herf: View-The-Security-Report.md   
+      herf: Operation-Guide/View-The-Security-Report.md   
     - name: 选择合适的转发方式
-      herf: Choose-Suitable-Forwarding-Mode.md   
+      herf: Operation-Guide/Choose-Suitable-Forwarding-Mode.md   
                  
 - name: 最佳实践
   items:
   - name: IP高防结合Web应用防火墙方案说明
-    herf: Advanced-Anti-DDoS + WAF.md
+    herf: Best-Practices/Advanced-Anti-DDoS + WAF.md
   - name: 本地防护+高防方案说明
-    herf: Local Basic-Anti-DDoS + Advanced-Anti-DDoS.md
+    herf: Best-Practices/Local Basic-Anti-DDoS + Advanced-Anti-DDoS.md
   - name: IP高防结合应用安全网关方案说明
-    herf: Advanced-Anti-DDoS + Application Security Gateway.md
+    herf: Best-Practices/Advanced-Anti-DDoS + Application Security Gateway.md
 - name: 教程
   items:
   status: 0    
